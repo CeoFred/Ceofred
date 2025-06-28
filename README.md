@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Blockchain Enthusiast | Building scalable web solutions**
 
-Welcome to my GitHub! I'm a passionate full-stack developer with expertise in modern web technologies, blockchain development and software developer tools. I love creating efficient, scalable solutions that solve real-world problems.
+Welcome to my GitHub! I'm a full-stack developer with 8 years of expertise in modern web technologies, blockchain development and software developer tools. I love creating efficient, scalable solutions that solve real-world problems.
 
 ## 🚀 About Me
 
@@ -10,7 +10,8 @@ Welcome to my GitHub! I'm a passionate full-stack developer with expertise in mo
 - 🌱 Exploring advanced **blockchain development** with **Solidity** and **Web3** technologies  
 - 💡 Passionate about **clean code**, **system architecture**, and **performance optimization**
 - 🎯 Always eager to learn new technologies and tackle challenging problems
-- 📫 Let's connect: [LinkedIn](https://linkedin.com/in/alfred-johnson-awah) | [Twitter](https://twitter.com/codemon)
+- 📫 Let's connect: [LinkedIn](https://linkedin.com/in/alfred-johnson-awah) | [Twitter](https://x.com/codemon_)
+  
 
 ## 💼 Professional Skills
 
@@ -58,13 +59,13 @@ Here are some of my notable projects that showcase my skills:
 Bonpay is a suite of tools for empowering web3 developers and business owners. At its core is a web3 SDK for accepting crypto payments using different payment methods including NFT. Bonpay ships with an e-commerce platform for business owners to showcase their products and receive payments in crypto using the bonpay SDK.
 
 ### 🌟 [Codemarka](https://github.com/CeoFred/codemarka-client)  
-**Tech Stack:** React, TypeScript, Mongodb, Sokcet, Nodejs, Heroku
+**Tech Stack:** React, TypeScript, Mongodb, Socket, Nodejs, Heroku.
 
 Real time coding environment for tech communities. Powered by realtime code editor for basic web languages including react, audio & video communication and live code preview.
 
 
 ### 🌟 [Blockchain Indexer](https://github.com/CeoFred/blockchain-indexer)
-**Tech Stack:** Geth client, postgres, go lang, Gin framework,AWS.
+**Tech Stack:** Geth client, postgres, Go lang, Gin framework,AWS.
 
 Blockchain indexer used for assetchain testnet campaign to aggregrate points based on users address interaction with testnet apps including swap, faucets, bridges, etc.
 
