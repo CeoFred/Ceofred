@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Blockchain Enthusiast | Building scalable web solutions**
 
-Welcome to my GitHub! I am a Senior Software Engineer with over 8 years of experience in backend development and blockchain technologies. My background includes designing and scaling distributed systems, building secure APIs, and developing smart contracts on Ethereum and other EVM-compatible chains. I’ve led engineering teams across Web2 and Web3 environments, contributing to projects in DeFi, NFT infrastructure, and decentralized identity. With deep technical expertise and a strong product mindset, I’m now focused on building innovative, user-centric solutions that advance the Web3 ecosystem.
+Welcome to my GitHub! I am a Senior Software Engineer with 8+ years of experience in backend development and blockchain technologies. My background includes designing and scaling distributed systems, building secure APIs, and developing smart contracts on Ethereum and other EVM-compatible chains. I’ve led engineering teams across Web2 and Web3 environments, contributing to projects in DeFi, NFT infrastructure, and decentralized identity. With deep technical expertise and a strong product mindset, I’m now focused on building innovative, user-centric solutions that advance the Web3 ecosystem.
 
 ## 🚀 About Me
 
